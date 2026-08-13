@@ -1,0 +1,380 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JakeWharton/u2020",
+          "description": "Jake大神的项目，里面有RxJava和Retrofit一起使用的例子",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-05-28T12:22:30Z",
+            "owner": "JakeWharton",
+            "repo": "u2020",
+            "stars": 5622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-boilerplate",
+          "description": "使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-06-01T13:23:11Z",
+            "owner": "ribot",
+            "repo": "android-boilerplate",
+            "stars": 4004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rx-android-architecture",
+          "description": "Android中使用Rx的一种架构",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-06-23T17:02:14Z",
+            "owner": "reark",
+            "repo": "reark",
+            "stars": 2044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TranslateApp",
+          "description": "一个使用 MVP+Dagger2+RxJava+Retrofit的实现手机端『划词翻译』功能的App - 咕咚翻译",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-12-11T02:27:27Z",
+            "owner": "maoruibin",
+            "repo": "TranslateApp",
+            "stars": 1814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avengers",
+          "description": "一个使用Retrofit+RxJava+MVP的app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-12-28T08:27:53Z",
+            "owner": "saulmm",
+            "repo": "Avengers",
+            "stars": 1075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RxJavaApp",
+          "description": "用于学习RxJava操作符的APP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-18T06:33:58Z",
+            "owner": "jiang111",
+            "repo": "RxJavaApp",
+            "stars": 1029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppPlus",
+          "description": "一个可以用于传送Apk文件，提取APK文件等的工具软件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-09-20T15:53:39Z",
+            "owner": "maoruibin",
+            "repo": "AppPlus",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-gfycat",
+          "description": "Android application that loads gifs via gfycat for efficiency's sake",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-07-17T15:20:30Z",
+            "owner": "dlew",
+            "repo": "android-gfycat",
+            "stars": 360
+          }
+        }
+      ],
+      "title": "App"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RxJava-Android-Samples",
+          "description": "Learning RxJava for Android by example",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-08-08T02:18:57Z",
+            "owner": "kaushikgopal",
+            "repo": "RxJava-Android-Samples",
+            "stars": 7493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MovieGuide",
+          "description": "An Android app that showcases the MVP pattern and RxJava",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-23T09:40:22Z",
+            "owner": "esoxjem",
+            "repo": "MovieGuide",
+            "stars": 2598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intro-To-RxJava",
+          "description": "RxJava实例入门",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-03-16T15:52:51Z",
+            "owner": "Froussios",
+            "repo": "Intro-To-RxJava",
+            "stars": 2031
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "learnrxjava",
+          "description": "RxJava例子",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-10-09T19:47:40Z",
+            "owner": "jhusain",
+            "repo": "learnrxjava",
+            "stars": 753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RxWeather",
+          "description": "Architecting Android with RxJava",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-05-15T09:43:14Z",
+            "owner": "SmartDengg",
+            "repo": "RxWeather",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RxBlur",
+          "description": "用RxJava处理和操作高斯模糊效果的简单用例。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-11-08T14:32:46Z",
+            "owner": "SmartDengg",
+            "repo": "RxBlur",
+            "stars": 542
+          }
+        }
+      ],
+      "title": "Example"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "retrofit",
+          "description": "支持RxJava的网络请求库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T22:50:29Z",
+            "owner": "lysine-dev",
+            "repo": "retrofit",
+            "stars": 43924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RxAndroid",
+          "description": "RxJava的Android拓展",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-05T12:08:09Z",
+            "owner": "ReactiveX",
+            "repo": "RxAndroid",
+            "stars": 19950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RxPermissions",
+          "description": "RxJava实现的Android运行时权限控制",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-05-11T09:47:47Z",
+            "owner": "tbruyelle",
+            "repo": "RxPermissions",
+            "stars": 10406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RxBinding",
+          "description": "安卓UI控件的RxJava绑定API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2021-11-18T17:51:21Z",
+            "owner": "JakeWharton",
+            "repo": "RxBinding",
+            "stars": 9571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RxLifecycle",
+          "description": "帮助使用了RxJava的安卓应用控制生命周期",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-03-23T15:41:20Z",
+            "owner": "trello-archive",
+            "repo": "RxLifecycle",
+            "stars": 7643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlbrite",
+          "description": "支持RxJava的sqlite数据库",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-08-17T16:20:56Z",
+            "owner": "square",
+            "repo": "sqlbrite",
+            "stars": 4523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "storio",
+          "description": "支持RxJava的数据库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-09-16T09:28:58Z",
+            "owner": "pushtorefresh",
+            "repo": "storio",
+            "stars": 2529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android-ReactiveLocation",
+          "description": "Google Play Service API wrapped in RxJava",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-18T14:24:40Z",
+            "owner": "mcharmas",
+            "repo": "Android-ReactiveLocation",
+            "stars": 2094
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reark",
+          "description": "RxJava architecture library for Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-06-23T17:02:14Z",
+            "owner": "reark",
+            "repo": "reark",
+            "stars": 2044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rx-preferences",
+          "description": "使SharedPreferences支持RxJava",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-05-24T00:46:03Z",
+            "owner": "f2prateek",
+            "repo": "rx-preferences",
+            "stars": 1519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frodo",
+          "description": "Android Library for Logging RxJava Observables and Subscribers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-08-30T23:39:05Z",
+            "owner": "android10",
+            "repo": "frodo",
+            "stars": 1461
+          }
+        }
+      ],
+      "title": "Library"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:10:12.109Z",
+    "original_repository": "happydog-intj/Awesome-RxJava",
+    "original_repository_sha": "007c710ea17429252068c2beed1112eeb2a2b3cc",
+    "enhanced_repository": "enhansome/enhansome-Awesome-RxJava",
+    "enhanced_repository_description": null,
+    "title": "Awesome-RxJava with stars"
+  }
+}
