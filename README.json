@@ -222,7 +222,7 @@
             "last_commit": "2026-08-16T23:02:12Z",
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43929
+            "stars": 43931
           }
         },
         {
@@ -236,7 +236,7 @@
             "last_commit": "2026-08-05T12:08:09Z",
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19936
+            "stars": 19935
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2023-09-16T09:28:58Z",
             "owner": "pushtorefresh",
             "repo": "storio",
-            "stars": 2529
+            "stars": 2530
           }
         },
         {
@@ -370,7 +370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:26:51.079Z",
+    "last_updated": "2026-08-18T08:18:06.960Z",
     "original_repository": "happydog-intj/Awesome-RxJava",
     "original_repository_sha": "007c710ea17429252068c2beed1112eeb2a2b3cc",
     "enhanced_repository": "enhansome/enhansome-Awesome-RxJava",
