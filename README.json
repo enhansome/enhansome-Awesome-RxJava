@@ -237,7 +237,7 @@
             "last_commit": "2026-08-16T23:02:12Z",
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43932
+            "stars": 43933
           }
         },
         {
@@ -395,8 +395,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:19:03.671Z",
+    "last_updated": "2026-08-19T12:09:48.904Z",
     "original_repository": "happydog-intj/Awesome-RxJava",
+    "original_repository_id": 38344704,
     "original_repository_sha": "007c710ea17429252068c2beed1112eeb2a2b3cc",
     "enhanced_repository": "enhansome/enhansome-Awesome-RxJava",
     "enhanced_repository_description": null,
