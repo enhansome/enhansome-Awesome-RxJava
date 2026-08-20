@@ -15,7 +15,7 @@
             "last_commit": "2023-05-28T12:22:30Z",
             "owner": "JakeWharton",
             "repo": "u2020",
-            "stars": 5620
+            "stars": 5619
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2023-08-08T02:18:57Z",
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
-            "stars": 7493
+            "stars": 7492
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-16T23:02:12Z",
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43933
+            "stars": 43934
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-05T12:08:09Z",
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19934
+            "stars": 19935
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2021-11-18T17:51:21Z",
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9570
+            "stars": 9569
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2023-03-23T15:41:20Z",
             "owner": "trello-archive",
             "repo": "RxLifecycle",
-            "stars": 7641
+            "stars": 7640
           }
         },
         {
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:09:48.904Z",
+    "last_updated": "2026-08-20T08:20:19.886Z",
     "original_repository": "happydog-intj/Awesome-RxJava",
     "original_repository_id": 38344704,
     "original_repository_sha": "007c710ea17429252068c2beed1112eeb2a2b3cc",
