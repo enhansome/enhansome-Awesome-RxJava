@@ -234,10 +234,10 @@
             "archived": false,
             "id": 892275,
             "language": "Java",
-            "last_commit": "2026-08-16T23:02:12Z",
+            "last_commit": "2026-08-21T04:39:49Z",
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43934
+            "stars": 43933
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2022-05-11T09:47:47Z",
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10405
+            "stars": 10404
           }
         },
         {
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:20:19.886Z",
+    "last_updated": "2026-08-21T08:21:45.370Z",
     "original_repository": "happydog-intj/Awesome-RxJava",
     "original_repository_id": 38344704,
     "original_repository_sha": "007c710ea17429252068c2beed1112eeb2a2b3cc",
