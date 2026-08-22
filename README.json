@@ -234,10 +234,10 @@
             "archived": false,
             "id": 892275,
             "language": "Java",
-            "last_commit": "2026-08-21T04:39:49Z",
+            "last_commit": "2026-08-22T02:35:27Z",
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43933
+            "stars": 43935
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-05T12:08:09Z",
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19935
+            "stars": 19934
           }
         },
         {
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:21:45.370Z",
+    "last_updated": "2026-08-22T08:12:36.125Z",
     "original_repository": "happydog-intj/Awesome-RxJava",
     "original_repository_id": 38344704,
     "original_repository_sha": "007c710ea17429252068c2beed1112eeb2a2b3cc",
