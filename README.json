@@ -282,7 +282,7 @@
             "last_commit": "2021-11-18T17:51:21Z",
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9569
+            "stars": 9570
           }
         },
         {
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:55:43.482Z",
+    "last_updated": "2026-08-25T05:53:05.360Z",
     "original_repository": "happydog-intj/Awesome-RxJava",
     "original_repository_id": 38344704,
     "original_repository_sha": "007c710ea17429252068c2beed1112eeb2a2b3cc",
