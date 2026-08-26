@@ -30,7 +30,7 @@
             "last_commit": "2018-06-01T13:23:11Z",
             "owner": "ribot",
             "repo": "android-boilerplate",
-            "stars": 4004
+            "stars": 4003
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2023-08-08T02:18:57Z",
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
-            "stars": 7492
+            "stars": 7491
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-23T02:00:28Z",
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43933
+            "stars": 43935
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-05T12:08:09Z",
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19933
+            "stars": 19932
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2022-05-11T09:47:47Z",
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10404
+            "stars": 10403
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2021-11-18T17:51:21Z",
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9570
+            "stars": 9569
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2023-03-23T15:41:20Z",
             "owner": "trello-archive",
             "repo": "RxLifecycle",
-            "stars": 7640
+            "stars": 7639
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2020-08-17T16:20:56Z",
             "owner": "square",
             "repo": "sqlbrite",
-            "stars": 4522
+            "stars": 4521
           }
         },
         {
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:24:46.144Z",
+    "last_updated": "2026-08-26T08:25:23.810Z",
     "original_repository": "happydog-intj/Awesome-RxJava",
     "original_repository_id": 38344704,
     "original_repository_sha": "007c710ea17429252068c2beed1112eeb2a2b3cc",
