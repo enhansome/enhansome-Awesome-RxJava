@@ -94,7 +94,7 @@ RxJava resources
 
 * [android-boilerplate](https://github.com/ribot/android-boilerplate) ⭐ 4,003 | 🐛 5 | 🌐 Java | 📅 2018-06-01 -使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例
 
-* [rx-android-architecture](https://github.com/tehmou/rx-android-architecture) ⭐ 2,044 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -Android中使用Rx的一种架构
+* [rx-android-architecture](https://github.com/tehmou/rx-android-architecture) ⭐ 2,043 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -Android中使用Rx的一种架构
 
 * [TranslateApp](https://github.com/maoruibin/TranslateApp) ⚠️ Archived - 一个使用 MVP+Dagger2+RxJava+Retrofit的实现手机端『划词翻译』功能的App - 咕咚翻译
 
@@ -110,7 +110,7 @@ RxJava resources
 
 ## Example
 
-* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,491 | 🐛 10 | 🌐 Java | 📅 2023-08-08-Learning RxJava for Android by example
+* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,490 | 🐛 10 | 🌐 Java | 📅 2023-08-08-Learning RxJava for Android by example
 
 * [MovieGuide](https://github.com/esoxjem/MovieGuide) ⭐ 2,598 | 🐛 1 | 🌐 Java | 📅 2025-09-23-An Android app that showcases the MVP pattern and RxJava
 
@@ -125,9 +125,9 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,935 | 🐛 169 | 🌐 Java | 📅 2026-08-23 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,937 | 🐛 168 | 🌐 Java | 📅 2026-08-26 -支持RxJava的网络请求库
 
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,932 | 🐛 1 | 🌐 Java | 📅 2026-08-05 -RxJava的Android拓展
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,932 | 🐛 1 | 🌐 Java | 📅 2026-08-27 -RxJava的Android拓展
 
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived -RxJava实现的Android运行时权限控制
 
@@ -139,9 +139,9 @@ RxJava resources
 
 * [storio](https://github.com/pushtorefresh/storio) ⭐ 2,530 | 🐛 42 | 🌐 Java | 📅 2023-09-16 -支持RxJava的数据库
 
-* [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) ⭐ 2,094 | 🐛 33 | 🌐 Java | 📅 2024-07-18 -Google Play Service API wrapped in RxJava
+* [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) ⭐ 2,093 | 🐛 33 | 🌐 Java | 📅 2024-07-18 -Google Play Service API wrapped in RxJava
 
-* [reark](https://github.com/reark/reark) ⭐ 2,044 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -RxJava architecture library for Android
+* [reark](https://github.com/reark/reark) ⭐ 2,043 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -RxJava architecture library for Android
 
 * [rx-preferences](https://github.com/f2prateek/rx-preferences) ⭐ 1,519 | 🐛 19 | 🌐 Java | 📅 2023-05-24 -使SharedPreferences支持RxJava
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
