@@ -234,10 +234,10 @@
             "archived": false,
             "id": 892275,
             "language": "Java",
-            "last_commit": "2026-08-26T13:56:16Z",
+            "last_commit": "2026-08-27T17:27:56Z",
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43937
+            "stars": 43936
           }
         },
         {
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:28:47.766Z",
+    "last_updated": "2026-08-27T18:25:23.910Z",
     "original_repository_info": {
       "archived": false,
       "id": 38344704,
