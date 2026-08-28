@@ -16,7 +16,8 @@
             "owner": "JakeWharton",
             "repo": "u2020",
             "stars": 5619
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "ribot",
             "repo": "android-boilerplate",
             "stars": 4003
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "reark",
             "repo": "reark",
             "stars": 2043
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "maoruibin",
             "repo": "TranslateApp",
             "stars": 1814
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "saulmm",
             "repo": "Avengers",
             "stars": 1075
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "jiang111",
             "repo": "RxJavaApp",
             "stars": 1029
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "maoruibin",
             "repo": "AppPlus",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "dlew",
             "repo": "android-gfycat",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         }
       ],
       "title": "App"
@@ -142,7 +150,8 @@
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
             "stars": 7490
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -156,8 +165,9 @@
             "last_commit": "2025-09-23T09:40:22Z",
             "owner": "esoxjem",
             "repo": "MovieGuide",
-            "stars": 2598
-          }
+            "stars": 2597
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "Froussios",
             "repo": "Intro-To-RxJava",
             "stars": 2031
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "jhusain",
             "repo": "learnrxjava",
             "stars": 753
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "SmartDengg",
             "repo": "RxWeather",
             "stars": 562
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "SmartDengg",
             "repo": "RxBlur",
             "stars": 542
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         }
       ],
       "title": "Example"
@@ -237,8 +251,9 @@
             "last_commit": "2026-08-27T17:27:56Z",
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43936
-          }
+            "stars": 43937
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "ReactiveX",
             "repo": "RxAndroid",
             "stars": 19932
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "tbruyelle",
             "repo": "RxPermissions",
             "stars": 10403
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "JakeWharton",
             "repo": "RxBinding",
             "stars": 9569
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "trello-archive",
             "repo": "RxLifecycle",
             "stars": 7639
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "square",
             "repo": "sqlbrite",
             "stars": 4521
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "pushtorefresh",
             "repo": "storio",
             "stars": 2530
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "mcharmas",
             "repo": "Android-ReactiveLocation",
             "stars": 2093
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "reark",
             "repo": "reark",
             "stars": 2043
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "f2prateek",
             "repo": "rx-preferences",
             "stars": 1519
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         },
         {
           "node_type": "item",
@@ -388,14 +412,15 @@
             "owner": "android10",
             "repo": "frodo",
             "stars": 1460
-          }
+          },
+          "first_seen": "2026-08-28T19:37:02.950Z"
         }
       ],
       "title": "Library"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:25:23.910Z",
+    "last_updated": "2026-08-28T19:37:02.950Z",
     "original_repository_info": {
       "archived": false,
       "id": 38344704,
