@@ -368,7 +368,7 @@
             "open_issues": 168,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43937,
+            "stars": 43936,
             "topics": [
               "android",
               "java"
@@ -392,7 +392,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19931,
+            "stars": 19930,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -413,7 +413,7 @@
             "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10403,
+            "stars": 10402,
             "topics": [
               "android",
               "android-permissions",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:24:14.826Z",
+    "last_updated": "2026-08-30T13:20:45.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
