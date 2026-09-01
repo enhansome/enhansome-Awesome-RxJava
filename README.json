@@ -368,7 +368,7 @@
             "open_issues": 168,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43938,
+            "stars": 43937,
             "topics": [
               "android",
               "java"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:32:04.630Z",
+    "last_updated": "2026-09-01T12:48:38.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",

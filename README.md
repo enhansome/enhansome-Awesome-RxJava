@@ -125,7 +125,7 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,938 | 🐛 168 | 🌐 Java | 📅 2026-08-27 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,937 | 🐛 168 | 🌐 Java | 📅 2026-08-27 -支持RxJava的网络请求库
 
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,930 | 🐛 1 | 🌐 Java | 📅 2026-08-27 -RxJava的Android拓展
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
