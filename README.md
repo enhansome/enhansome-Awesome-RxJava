@@ -90,7 +90,7 @@ RxJava resources
 
 ## App
 
-* [JakeWharton/u2020](https://github.com/JakeWharton/u2020) ⭐ 5,619 | 🐛 14 | 🌐 Java | 📅 2023-05-28 -Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
+* [JakeWharton/u2020](https://github.com/JakeWharton/u2020) ⭐ 5,618 | 🐛 14 | 🌐 Java | 📅 2023-05-28 -Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
 
 * [android-boilerplate](https://github.com/ribot/android-boilerplate) ⭐ 4,003 | 🐛 5 | 🌐 Java | 📅 2018-06-01 -使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例
 
@@ -110,7 +110,7 @@ RxJava resources
 
 ## Example
 
-* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,489 | 🐛 10 | 🌐 Java | 📅 2023-08-08-Learning RxJava for Android by example
+* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,488 | 🐛 10 | 🌐 Java | 📅 2023-08-08-Learning RxJava for Android by example
 
 * [MovieGuide](https://github.com/esoxjem/MovieGuide) ⭐ 2,597 | 🐛 1 | 🌐 Java | 📅 2025-09-23-An Android app that showcases the MVP pattern and RxJava
 
@@ -125,9 +125,9 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,936 | 🐛 168 | 🌐 Java | 📅 2026-09-01 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,935 | 🐛 170 | 🌐 Java | 📅 2026-09-03 -支持RxJava的网络请求库
 
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,928 | 🐛 1 | 🌐 Java | 📅 2026-08-27 -RxJava的Android拓展
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,927 | 🐛 1 | 🌐 Java | 📅 2026-08-27 -RxJava的Android拓展
 
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived -RxJava实现的Android运行时权限控制
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

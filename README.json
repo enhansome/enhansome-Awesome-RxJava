@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "JakeWharton",
             "repo": "u2020",
-            "stars": 5619,
+            "stars": 5618,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -209,7 +209,7 @@
             "open_issues": 10,
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
-            "stars": 7489,
+            "stars": 7488,
             "topics": [
               "concurrency",
               "example",
@@ -364,11 +364,11 @@
             "id": 892275,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T19:07:33Z",
-            "open_issues": 168,
+            "last_commit": "2026-09-03T10:52:02Z",
+            "open_issues": 170,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43936,
+            "stars": 43935,
             "topics": [
               "android",
               "java"
@@ -392,7 +392,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19928,
+            "stars": 19927,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:18:13.235Z",
+    "last_updated": "2026-09-03T12:16:04.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
@@ -620,7 +620,7 @@
       "open_issues": 7,
       "owner": "happydog-intj",
       "repo": "Awesome-RxJava",
-      "stars": 4804,
+      "stars": 4803,
       "topics": []
     },
     "original_repository_sha": "007c710ea17429252068c2beed1112eeb2a2b3cc",
