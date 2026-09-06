@@ -209,7 +209,7 @@
             "open_issues": 10,
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
-            "stars": 7488,
+            "stars": 7486,
             "topics": [
               "concurrency",
               "example",
@@ -365,10 +365,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T00:50:58Z",
-            "open_issues": 170,
+            "open_issues": 171,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43936,
+            "stars": 43935,
             "topics": [
               "android",
               "java"
@@ -392,7 +392,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19927,
+            "stars": 19925,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -501,7 +501,7 @@
             "open_issues": 42,
             "owner": "pushtorefresh",
             "repo": "storio",
-            "stars": 2530,
+            "stars": 2529,
             "topics": [
               "android",
               "rxjava",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:24:04.409Z",
+    "last_updated": "2026-09-06T11:45:39.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
