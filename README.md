@@ -125,9 +125,9 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,935 | 🐛 173 | 🌐 Java | 📅 2026-09-09 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,936 | 🐛 173 | 🌐 Java | 📅 2026-09-09 -支持RxJava的网络请求库
 
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,925 | 🐛 1 | 🌐 Java | 📅 2026-08-27 -RxJava的Android拓展
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,924 | 🐛 1 | 🌐 Java | 📅 2026-08-27 -RxJava的Android拓展
 
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived -RxJava实现的Android运行时权限控制
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
