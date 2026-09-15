@@ -16,7 +16,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2023-05-28T12:22:30Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "JakeWharton",
             "repo": "u2020",
             "stars": 5616,
@@ -368,7 +368,7 @@
             "open_issues": 173,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43935,
+            "stars": 43936,
             "topics": [
               "android",
               "java"
@@ -392,7 +392,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19924,
+            "stars": 19923,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "trello-archive",
             "repo": "RxLifecycle",
-            "stars": 7638,
+            "stars": 7637,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T14:26:10.442Z",
+    "last_updated": "2026-09-15T12:54:40.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
