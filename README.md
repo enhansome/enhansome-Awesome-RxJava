@@ -90,7 +90,7 @@ RxJava resources
 
 ## App
 
-* [JakeWharton/u2020](https://github.com/JakeWharton/u2020) ⭐ 5,616 | 🐛 15 | 🌐 Java | 📅 2023-05-28 -Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
+* [JakeWharton/u2020](https://github.com/JakeWharton/u2020) ⭐ 5,616 | 🐛 14 | 🌐 Java | 📅 2023-05-28 -Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
 
 * [android-boilerplate](https://github.com/ribot/android-boilerplate) ⭐ 4,002 | 🐛 5 | 🌐 Java | 📅 2018-06-01 -使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
