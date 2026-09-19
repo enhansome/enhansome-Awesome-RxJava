@@ -61,7 +61,7 @@
             "open_issues": 10,
             "owner": "reark",
             "repo": "reark",
-            "stars": 2045,
+            "stars": 2044,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -108,7 +108,7 @@
             "open_issues": 19,
             "owner": "saulmm",
             "repo": "Avengers",
-            "stars": 1075,
+            "stars": 1074,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -368,7 +368,7 @@
             "open_issues": 173,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43941,
+            "stars": 43940,
             "topics": [
               "android",
               "java"
@@ -392,7 +392,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19923,
+            "stars": 19922,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -548,7 +548,7 @@
             "open_issues": 10,
             "owner": "reark",
             "repo": "reark",
-            "stars": 2045,
+            "stars": 2044,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -590,7 +590,7 @@
             "open_issues": 16,
             "owner": "android10",
             "repo": "frodo",
-            "stars": 1460,
+            "stars": 1459,
             "topics": [
               "android",
               "android-development",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:23:26.427Z",
+    "last_updated": "2026-09-19T12:04:42.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
