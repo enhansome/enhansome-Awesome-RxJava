@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "JakeWharton",
             "repo": "u2020",
-            "stars": 5616,
+            "stars": 5615,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -129,7 +129,7 @@
             "open_issues": 0,
             "owner": "jiang111",
             "repo": "RxJavaApp",
-            "stars": 1029,
+            "stars": 1030,
             "topics": [
               "android",
               "operator",
@@ -368,7 +368,7 @@
             "open_issues": 173,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43940,
+            "stars": 43941,
             "topics": [
               "android",
               "java"
@@ -392,7 +392,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19920,
+            "stars": 19918,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -413,7 +413,7 @@
             "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10395,
+            "stars": 10394,
             "topics": [
               "android",
               "android-permissions",
@@ -438,7 +438,7 @@
             "open_issues": 42,
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9568,
+            "stars": 9567,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T14:33:33.245Z",
+    "last_updated": "2026-09-22T12:51:14.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
