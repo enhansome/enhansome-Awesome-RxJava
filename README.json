@@ -364,7 +364,7 @@
             "id": 892275,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T20:57:39Z",
+            "last_commit": "2026-09-25T04:14:29Z",
             "open_issues": 173,
             "owner": "lysine-dev",
             "repo": "retrofit",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:55:44.155Z",
+    "last_updated": "2026-09-25T13:01:54.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
