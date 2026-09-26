@@ -82,7 +82,7 @@
             "open_issues": 16,
             "owner": "maoruibin",
             "repo": "TranslateApp",
-            "stars": 1815,
+            "stars": 1814,
             "topics": [
               "app",
               "dagger",
@@ -364,8 +364,8 @@
             "id": 892275,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T04:14:29Z",
-            "open_issues": 173,
+            "last_commit": "2026-09-26T04:58:50Z",
+            "open_issues": 174,
             "owner": "lysine-dev",
             "repo": "retrofit",
             "stars": 43944,
@@ -413,7 +413,7 @@
             "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10393,
+            "stars": 10391,
             "topics": [
               "android",
               "android-permissions",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T13:01:54.522Z",
+    "last_updated": "2026-09-26T12:30:06.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
