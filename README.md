@@ -90,7 +90,7 @@ RxJava resources
 
 ## App
 
-* [JakeWharton/u2020](https://github.com/JakeWharton/u2020) ⭐ 5,615 | 🐛 14 | 🌐 Java | 📅 2023-05-28 -Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
+* [JakeWharton/u2020](https://github.com/JakeWharton/u2020) ⭐ 5,614 | 🐛 14 | 🌐 Java | 📅 2023-05-28 -Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
 
 * [android-boilerplate](https://github.com/ribot/android-boilerplate) ⭐ 4,001 | 🐛 5 | 🌐 Java | 📅 2018-06-01 -使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例
 
@@ -125,9 +125,9 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,945 | 🐛 174 | 🌐 Java | 📅 2026-09-26 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,944 | 🐛 174 | 🌐 Java | 📅 2026-09-26 -支持RxJava的网络请求库
 
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,919 | 🐛 1 | 🌐 Java | 📅 2026-08-27 -RxJava的Android拓展
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,917 | 🐛 1 | 🌐 Java | 📅 2026-08-27 -RxJava的Android拓展
 
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived -RxJava实现的Android运行时权限控制
 
@@ -137,7 +137,7 @@ RxJava resources
 
 * [sqlbrite](https://github.com/square/sqlbrite) ⚠️ Archived -支持RxJava的sqlite数据库
 
-* [storio](https://github.com/pushtorefresh/storio) ⭐ 2,529 | 🐛 42 | 🌐 Java | 📅 2023-09-16 -支持RxJava的数据库
+* [storio](https://github.com/pushtorefresh/storio) ⭐ 2,528 | 🐛 42 | 🌐 Java | 📅 2023-09-16 -支持RxJava的数据库
 
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) ⭐ 2,093 | 🐛 33 | 🌐 Java | 📅 2024-07-18 -Google Play Service API wrapped in RxJava
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
