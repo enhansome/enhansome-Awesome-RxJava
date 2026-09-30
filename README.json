@@ -364,11 +364,11 @@
             "id": 892275,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T14:18:03Z",
-            "open_issues": 153,
+            "last_commit": "2026-09-29T19:43:35Z",
+            "open_issues": 152,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43944,
+            "stars": 43938,
             "topics": [
               "android",
               "java"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T14:22:42.823Z",
+    "last_updated": "2026-09-30T14:15:59.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
