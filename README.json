@@ -364,8 +364,8 @@
             "id": 892275,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T19:43:35Z",
-            "open_issues": 152,
+            "last_commit": "2026-10-01T02:01:33Z",
+            "open_issues": 151,
             "owner": "lysine-dev",
             "repo": "retrofit",
             "stars": 43938,
@@ -388,11 +388,11 @@
             "id": 23095954,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T11:15:28Z",
+            "last_commit": "2026-10-01T11:27:23Z",
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19917,
+            "stars": 19910,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T14:15:59.004Z",
+    "last_updated": "2026-10-01T14:49:47.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
