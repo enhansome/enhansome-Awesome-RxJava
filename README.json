@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "ribot",
             "repo": "android-boilerplate",
-            "stars": 4001,
+            "stars": 4000,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -61,7 +61,7 @@
             "open_issues": 10,
             "owner": "reark",
             "repo": "reark",
-            "stars": 2045,
+            "stars": 2046,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -364,11 +364,11 @@
             "id": 892275,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T02:01:33Z",
+            "last_commit": "2026-10-01T15:55:18Z",
             "open_issues": 151,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43938,
+            "stars": 43937,
             "topics": [
               "android",
               "java"
@@ -392,7 +392,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19910,
+            "stars": 19909,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -548,7 +548,7 @@
             "open_issues": 10,
             "owner": "reark",
             "repo": "reark",
-            "stars": 2045,
+            "stars": 2046,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T14:49:47.686Z",
+    "last_updated": "2026-10-02T14:10:26.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
