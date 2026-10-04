@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "JakeWharton",
             "repo": "u2020",
-            "stars": 5613,
+            "stars": 5614,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -368,7 +368,7 @@
             "open_issues": 152,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43937,
+            "stars": 43938,
             "topics": [
               "android",
               "java"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:46:16.443Z",
+    "last_updated": "2026-10-04T13:29:53.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
