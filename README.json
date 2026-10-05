@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "JakeWharton",
             "repo": "u2020",
-            "stars": 5614,
+            "stars": 5615,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -209,7 +209,7 @@
             "open_issues": 10,
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
-            "stars": 7487,
+            "stars": 7488,
             "topics": [
               "concurrency",
               "example",
@@ -368,7 +368,7 @@
             "open_issues": 152,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43938,
+            "stars": 43936,
             "topics": [
               "android",
               "java"
@@ -413,7 +413,7 @@
             "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10393,
+            "stars": 10394,
             "topics": [
               "android",
               "android-permissions",
@@ -438,7 +438,7 @@
             "open_issues": 42,
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9567,
+            "stars": 9568,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "trello-archive",
             "repo": "RxLifecycle",
-            "stars": 7635,
+            "stars": 7636,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:29:53.952Z",
+    "last_updated": "2026-10-05T16:26:31.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
