@@ -240,7 +240,7 @@
             "open_issues": 1,
             "owner": "esoxjem",
             "repo": "MovieGuide",
-            "stars": 2595,
+            "stars": 2594,
             "topics": [
               "android",
               "clean-architecture",
@@ -364,11 +364,11 @@
             "id": 892275,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:25:47Z",
+            "last_commit": "2026-10-05T20:20:09Z",
             "open_issues": 152,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43936,
+            "stars": 43934,
             "topics": [
               "android",
               "java"
@@ -392,7 +392,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19909,
+            "stars": 19908,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T16:26:31.641Z",
+    "last_updated": "2026-10-06T10:40:20.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
