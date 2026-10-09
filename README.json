@@ -61,7 +61,7 @@
             "open_issues": 10,
             "owner": "reark",
             "repo": "reark",
-            "stars": 2046,
+            "stars": 2047,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -129,7 +129,7 @@
             "open_issues": 0,
             "owner": "jiang111",
             "repo": "RxJavaApp",
-            "stars": 1030,
+            "stars": 1031,
             "topics": [
               "android",
               "operator",
@@ -240,7 +240,7 @@
             "open_issues": 1,
             "owner": "esoxjem",
             "repo": "MovieGuide",
-            "stars": 2594,
+            "stars": 2595,
             "topics": [
               "android",
               "clean-architecture",
@@ -364,11 +364,11 @@
             "id": 892275,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T13:06:46Z",
-            "open_issues": 152,
+            "last_commit": "2026-10-09T12:24:42Z",
+            "open_issues": 153,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43937,
+            "stars": 43933,
             "topics": [
               "android",
               "java"
@@ -413,7 +413,7 @@
             "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10393,
+            "stars": 10392,
             "topics": [
               "android",
               "android-permissions",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "trello-archive",
             "repo": "RxLifecycle",
-            "stars": 7636,
+            "stars": 7635,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -501,7 +501,7 @@
             "open_issues": 42,
             "owner": "pushtorefresh",
             "repo": "storio",
-            "stars": 2528,
+            "stars": 2529,
             "topics": [
               "android",
               "rxjava",
@@ -527,7 +527,7 @@
             "open_issues": 33,
             "owner": "mcharmas",
             "repo": "Android-ReactiveLocation",
-            "stars": 2093,
+            "stars": 2094,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -548,7 +548,7 @@
             "open_issues": 10,
             "owner": "reark",
             "repo": "reark",
-            "stars": 2046,
+            "stars": 2047,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -569,7 +569,7 @@
             "open_issues": 19,
             "owner": "f2prateek",
             "repo": "rx-preferences",
-            "stars": 1519,
+            "stars": 1520,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -590,7 +590,7 @@
             "open_issues": 16,
             "owner": "android10",
             "repo": "frodo",
-            "stars": 1459,
+            "stars": 1460,
             "topics": [
               "android",
               "android-development",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T14:57:55.519Z",
+    "last_updated": "2026-10-09T14:42:53.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
