@@ -61,7 +61,7 @@
             "open_issues": 10,
             "owner": "reark",
             "repo": "reark",
-            "stars": 2047,
+            "stars": 2048,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -368,7 +368,7 @@
             "open_issues": 153,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43998,
+            "stars": 43999,
             "topics": [
               "android",
               "java"
@@ -548,7 +548,7 @@
             "open_issues": 10,
             "owner": "reark",
             "repo": "reark",
-            "stars": 2047,
+            "stars": 2048,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:59:40.816Z",
+    "last_updated": "2026-10-11T14:24:07.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
