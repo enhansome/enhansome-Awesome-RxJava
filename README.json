@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "JakeWharton",
             "repo": "u2020",
-            "stars": 5615,
+            "stars": 5613,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "ribot",
             "repo": "android-boilerplate",
-            "stars": 3998,
+            "stars": 3997,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -392,7 +392,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19907,
+            "stars": 19906,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -438,7 +438,7 @@
             "open_issues": 42,
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9569,
+            "stars": 9568,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -501,7 +501,7 @@
             "open_issues": 42,
             "owner": "pushtorefresh",
             "repo": "storio",
-            "stars": 2529,
+            "stars": 2528,
             "topics": [
               "android",
               "rxjava",
@@ -590,7 +590,7 @@
             "open_issues": 16,
             "owner": "android10",
             "repo": "frodo",
-            "stars": 1460,
+            "stars": 1459,
             "topics": [
               "android",
               "android-development",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:24:07.906Z",
+    "last_updated": "2026-10-12T17:02:31.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
