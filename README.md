@@ -92,7 +92,7 @@ RxJava resources
 
 * [JakeWharton/u2020](https://github.com/JakeWharton/u2020) ⭐ 5,613 | 🐛 14 | 🌐 Java | 📅 2023-05-28 -Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
 
-* [android-boilerplate](https://github.com/ribot/android-boilerplate) ⭐ 3,997 | 🐛 5 | 🌐 Java | 📅 2018-06-01 -使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例
+* [android-boilerplate](https://github.com/ribot/android-boilerplate) ⭐ 3,996 | 🐛 5 | 🌐 Java | 📅 2018-06-01 -使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例
 
 * [rx-android-architecture](https://github.com/tehmou/rx-android-architecture) ⭐ 2,048 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -Android中使用Rx的一种架构
 
@@ -125,7 +125,7 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,999 | 🐛 153 | 🌐 Java | 📅 2026-10-09 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 44,001 | 🐛 153 | 🌐 Java | 📅 2026-10-13 -支持RxJava的网络请求库
 
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,906 | 🐛 1 | 🌐 Java | 📅 2026-10-01 -RxJava的Android拓展
 
@@ -133,13 +133,13 @@ RxJava resources
 
 * [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived -安卓UI控件的RxJava绑定API
 
-* [RxLifecycle](https://github.com/trello/RxLifecycle) ⭐ 7,635 | 🐛 4 | 🌐 Java | 📅 2023-03-23 -帮助使用了RxJava的安卓应用控制生命周期
+* [RxLifecycle](https://github.com/trello/RxLifecycle) ⭐ 7,634 | 🐛 4 | 🌐 Java | 📅 2023-03-23 -帮助使用了RxJava的安卓应用控制生命周期
 
 * [sqlbrite](https://github.com/square/sqlbrite) ⚠️ Archived -支持RxJava的sqlite数据库
 
 * [storio](https://github.com/pushtorefresh/storio) ⭐ 2,528 | 🐛 42 | 🌐 Java | 📅 2023-09-16 -支持RxJava的数据库
 
-* [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) ⭐ 2,094 | 🐛 33 | 🌐 Java | 📅 2024-07-18 -Google Play Service API wrapped in RxJava
+* [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) ⭐ 2,093 | 🐛 33 | 🌐 Java | 📅 2024-07-18 -Google Play Service API wrapped in RxJava
 
 * [reark](https://github.com/reark/reark) ⭐ 2,048 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -RxJava architecture library for Android
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "ribot",
             "repo": "android-boilerplate",
-            "stars": 3997,
+            "stars": 3996,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -364,11 +364,11 @@
             "id": 892275,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T12:24:42Z",
+            "last_commit": "2026-10-13T14:04:47Z",
             "open_issues": 153,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43999,
+            "stars": 44001,
             "topics": [
               "android",
               "java"
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "trello-archive",
             "repo": "RxLifecycle",
-            "stars": 7635,
+            "stars": 7634,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -527,7 +527,7 @@
             "open_issues": 33,
             "owner": "mcharmas",
             "repo": "Android-ReactiveLocation",
-            "stars": 2094,
+            "stars": 2093,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T17:02:31.369Z",
+    "last_updated": "2026-10-13T15:18:53.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
