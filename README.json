@@ -413,7 +413,7 @@
             "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10392,
+            "stars": 10390,
             "topics": [
               "android",
               "android-permissions",
@@ -438,7 +438,7 @@
             "open_issues": 42,
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9568,
+            "stars": 9567,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T15:18:53.712Z",
+    "last_updated": "2026-10-14T13:06:59.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",

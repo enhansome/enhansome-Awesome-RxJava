@@ -80,7 +80,7 @@ RxJava resources
 
 ## 书籍
 
-* [【译】RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN) ⭐ 1,264 | 🐛 0 | 🌐 CSS | 📅 2017-09-04 -Ivan.Morgillo所写一书的中文翻译版本
+* [【译】RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN) ⭐ 1,263 | 🐛 0 | 🌐 CSS | 📅 2017-09-04 -Ivan.Morgillo所写一书的中文翻译版本
 
 ## Test
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
