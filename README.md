@@ -116,7 +116,7 @@ RxJava resources
 
 * [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) ⭐ 2,030 | 🐛 21 | 🌐 Java | 📅 2022-03-16 -RxJava实例入门
 
-* [learnrxjava](https://github.com/jhusain/learnrxjava) ⭐ 753 | 🐛 8 | 🌐 Java | 📅 2017-10-09 -RxJava例子
+* [learnrxjava](https://github.com/jhusain/learnrxjava) ⭐ 754 | 🐛 8 | 🌐 Java | 📅 2017-10-09 -RxJava例子
 
 * [RxWeather](https://github.com/SmartDengg/RxWeather) ⭐ 562 | 🐛 1 | 🌐 Java | 📅 2016-05-15
   -Architecting Android with RxJava
@@ -125,9 +125,9 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 44,001 | 🐛 153 | 🌐 Java | 📅 2026-10-13 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,937 | 🐛 154 | 🌐 Java | 📅 2026-10-15 -支持RxJava的网络请求库
 
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,906 | 🐛 1 | 🌐 Java | 📅 2026-10-01 -RxJava的Android拓展
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,905 | 🐛 1 | 🌐 Java | 📅 2026-10-01 -RxJava的Android拓展
 
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived -RxJava实现的Android运行时权限控制
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
