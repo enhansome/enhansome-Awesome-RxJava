@@ -100,7 +100,7 @@ RxJava resources
 
 * [Avengers](https://github.com/saulmm/Avengers) ⭐ 1,075 | 🐛 19 | 🌐 Java | 📅 2016-12-28 - 一个使用Retrofit+RxJava+MVP的app
 
-* [RxJavaApp](https://github.com/jiang111/RxJavaApp) ⭐ 1,031 | 🐛 0 | 🌐 Java | 📅 2023-12-18 -用于学习RxJava操作符的APP
+* [RxJavaApp](https://github.com/jiang111/RxJavaApp) ⭐ 1,030 | 🐛 0 | 🌐 Java | 📅 2023-12-18 -用于学习RxJava操作符的APP
 
 * [AppPlus](https://github.com/maoruibin/AppPlus) ⭐ 437 | 🐛 1 | 🌐 Java | 📅 2017-09-20 - 一个可以用于传送Apk文件，提取APK文件等的工具软件。
 
@@ -125,9 +125,9 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,940 | 🐛 153 | 🌐 Java | 📅 2026-10-17 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,937 | 🐛 153 | 🌐 Java | 📅 2026-10-17 -支持RxJava的网络请求库
 
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,903 | 🐛 1 | 🌐 Java | 📅 2026-10-01 -RxJava的Android拓展
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,901 | 🐛 1 | 🌐 Java | 📅 2026-10-01 -RxJava的Android拓展
 
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived -RxJava实现的Android运行时权限控制
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
