@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "ribot",
             "repo": "android-boilerplate",
-            "stars": 3995,
+            "stars": 3994,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -368,7 +368,7 @@
             "open_issues": 153,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43937,
+            "stars": 43934,
             "topics": [
               "android",
               "java"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:11:52.971Z",
+    "last_updated": "2026-10-19T15:01:07.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
