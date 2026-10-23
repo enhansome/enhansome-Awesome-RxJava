@@ -94,7 +94,7 @@ RxJava resources
 
 * [android-boilerplate](https://github.com/ribot/android-boilerplate) ⭐ 3,994 | 🐛 5 | 🌐 Java | 📅 2018-06-01 -使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例
 
-* [rx-android-architecture](https://github.com/tehmou/rx-android-architecture) ⭐ 2,050 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -Android中使用Rx的一种架构
+* [rx-android-architecture](https://github.com/tehmou/rx-android-architecture) ⭐ 2,049 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -Android中使用Rx的一种架构
 
 * [TranslateApp](https://github.com/maoruibin/TranslateApp) ⚠️ Archived - 一个使用 MVP+Dagger2+RxJava+Retrofit的实现手机端『划词翻译』功能的App - 咕咚翻译
 
@@ -125,7 +125,7 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,934 | 🐛 149 | 🌐 Java | 📅 2026-10-22 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,938 | 🐛 148 | 🌐 Java | 📅 2026-10-22 -支持RxJava的网络请求库
 
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,898 | 🐛 1 | 🌐 Java | 📅 2026-10-01 -RxJava的Android拓展
 
@@ -137,11 +137,11 @@ RxJava resources
 
 * [sqlbrite](https://github.com/square/sqlbrite) ⚠️ Archived -支持RxJava的sqlite数据库
 
-* [storio](https://github.com/pushtorefresh/storio) ⭐ 2,528 | 🐛 42 | 🌐 Java | 📅 2023-09-16 -支持RxJava的数据库
+* [storio](https://github.com/pushtorefresh/storio) ⭐ 2,526 | 🐛 42 | 🌐 Java | 📅 2023-09-16 -支持RxJava的数据库
 
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) ⭐ 2,093 | 🐛 33 | 🌐 Java | 📅 2024-07-18 -Google Play Service API wrapped in RxJava
 
-* [reark](https://github.com/reark/reark) ⭐ 2,050 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -RxJava architecture library for Android
+* [reark](https://github.com/reark/reark) ⭐ 2,049 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -RxJava architecture library for Android
 
 * [rx-preferences](https://github.com/f2prateek/rx-preferences) ⭐ 1,520 | 🐛 19 | 🌐 Java | 📅 2023-05-24 -使SharedPreferences支持RxJava
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
