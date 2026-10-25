@@ -90,11 +90,11 @@ RxJava resources
 
 ## App
 
-* [JakeWharton/u2020](https://github.com/JakeWharton/u2020) ⭐ 5,613 | 🐛 14 | 🌐 Java | 📅 2023-05-28 -Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
+* [JakeWharton/u2020](https://github.com/JakeWharton/u2020) ⭐ 5,614 | 🐛 14 | 🌐 Java | 📅 2023-05-28 -Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
 
 * [android-boilerplate](https://github.com/ribot/android-boilerplate) ⭐ 3,994 | 🐛 5 | 🌐 Java | 📅 2018-06-01 -使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例
 
-* [rx-android-architecture](https://github.com/tehmou/rx-android-architecture) ⭐ 2,049 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -Android中使用Rx的一种架构
+* [rx-android-architecture](https://github.com/tehmou/rx-android-architecture) ⭐ 2,050 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -Android中使用Rx的一种架构
 
 * [TranslateApp](https://github.com/maoruibin/TranslateApp) ⚠️ Archived - 一个使用 MVP+Dagger2+RxJava+Retrofit的实现手机端『划词翻译』功能的App - 咕咚翻译
 
@@ -110,7 +110,7 @@ RxJava resources
 
 ## Example
 
-* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,487 | 🐛 10 | 🌐 Java | 📅 2023-08-08-Learning RxJava for Android by example
+* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,488 | 🐛 10 | 🌐 Java | 📅 2023-08-08-Learning RxJava for Android by example
 
 * [MovieGuide](https://github.com/esoxjem/MovieGuide) ⭐ 2,595 | 🐛 1 | 🌐 Java | 📅 2025-09-23-An Android app that showcases the MVP pattern and RxJava
 
@@ -125,15 +125,15 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,939 | 🐛 148 | 🌐 Java | 📅 2026-10-22 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,940 | 🐛 148 | 🌐 Java | 📅 2026-10-25 -支持RxJava的网络请求库
 
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,898 | 🐛 1 | 🌐 Java | 📅 2026-10-01 -RxJava的Android拓展
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,901 | 🐛 1 | 🌐 Java | 📅 2026-10-01 -RxJava的Android拓展
 
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived -RxJava实现的Android运行时权限控制
 
 * [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived -安卓UI控件的RxJava绑定API
 
-* [RxLifecycle](https://github.com/trello/RxLifecycle) ⭐ 7,633 | 🐛 4 | 🌐 Java | 📅 2023-03-23 -帮助使用了RxJava的安卓应用控制生命周期
+* [RxLifecycle](https://github.com/trello/RxLifecycle) ⭐ 7,634 | 🐛 4 | 🌐 Java | 📅 2023-03-23 -帮助使用了RxJava的安卓应用控制生命周期
 
 * [sqlbrite](https://github.com/square/sqlbrite) ⚠️ Archived -支持RxJava的sqlite数据库
 
@@ -141,7 +141,7 @@ RxJava resources
 
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) ⭐ 2,093 | 🐛 33 | 🌐 Java | 📅 2024-07-18 -Google Play Service API wrapped in RxJava
 
-* [reark](https://github.com/reark/reark) ⭐ 2,049 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -RxJava architecture library for Android
+* [reark](https://github.com/reark/reark) ⭐ 2,050 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -RxJava architecture library for Android
 
 * [rx-preferences](https://github.com/f2prateek/rx-preferences) ⭐ 1,520 | 🐛 19 | 🌐 Java | 📅 2023-05-24 -使SharedPreferences支持RxJava
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
