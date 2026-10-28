@@ -82,7 +82,7 @@
             "open_issues": 16,
             "owner": "maoruibin",
             "repo": "TranslateApp",
-            "stars": 1816,
+            "stars": 1815,
             "topics": [
               "app",
               "dagger",
@@ -269,7 +269,7 @@
             "open_issues": 21,
             "owner": "Froussios",
             "repo": "Intro-To-RxJava",
-            "stars": 2031,
+            "stars": 2032,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -368,7 +368,7 @@
             "open_issues": 148,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43942,
+            "stars": 43941,
             "topics": [
               "android",
               "java"
@@ -392,7 +392,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19900,
+            "stars": 19899,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T13:39:10.554Z",
+    "last_updated": "2026-10-28T14:33:06.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
