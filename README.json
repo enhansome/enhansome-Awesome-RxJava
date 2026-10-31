@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "JakeWharton",
             "repo": "u2020",
-            "stars": 5614,
+            "stars": 5613,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -364,11 +364,11 @@
             "id": 892275,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T14:02:38Z",
+            "last_commit": "2026-10-31T03:50:41Z",
             "open_issues": 148,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43938,
+            "stars": 43940,
             "topics": [
               "android",
               "java"
@@ -413,7 +413,7 @@
             "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10389,
+            "stars": 10387,
             "topics": [
               "android",
               "android-permissions",
@@ -438,7 +438,7 @@
             "open_issues": 42,
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9565,
+            "stars": 9564,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "trello-archive",
             "repo": "RxLifecycle",
-            "stars": 7634,
+            "stars": 7632,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -569,7 +569,7 @@
             "open_issues": 19,
             "owner": "f2prateek",
             "repo": "rx-preferences",
-            "stars": 1520,
+            "stars": 1519,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T14:35:38.171Z",
+    "last_updated": "2026-10-31T13:55:14.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
