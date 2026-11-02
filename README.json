@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "JakeWharton",
             "repo": "u2020",
-            "stars": 5613,
+            "stars": 5614,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -388,11 +388,11 @@
             "id": 23095954,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T11:27:23Z",
+            "last_commit": "2026-11-02T11:56:35Z",
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19898,
+            "stars": 19897,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -527,7 +527,7 @@
             "open_issues": 33,
             "owner": "mcharmas",
             "repo": "Android-ReactiveLocation",
-            "stars": 2093,
+            "stars": 2094,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T14:32:48.465Z",
+    "last_updated": "2026-11-02T17:28:10.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
