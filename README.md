@@ -112,7 +112,7 @@ RxJava resources
 
 * [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,488 | 🐛 10 | 🌐 Java | 📅 2023-08-08-Learning RxJava for Android by example
 
-* [MovieGuide](https://github.com/esoxjem/MovieGuide) ⭐ 2,595 | 🐛 1 | 🌐 Java | 📅 2025-09-23-An Android app that showcases the MVP pattern and RxJava
+* [MovieGuide](https://github.com/esoxjem/MovieGuide) ⭐ 2,596 | 🐛 1 | 🌐 Java | 📅 2025-09-23-An Android app that showcases the MVP pattern and RxJava
 
 * [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) ⭐ 2,032 | 🐛 21 | 🌐 Java | 📅 2022-03-16 -RxJava实例入门
 
@@ -125,21 +125,21 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,940 | 🐛 148 | 🌐 Java | 📅 2026-10-31 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,938 | 🐛 148 | 🌐 Java | 📅 2026-10-31 -支持RxJava的网络请求库
 
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,897 | 🐛 1 | 🌐 Java | 📅 2026-11-02 -RxJava的Android拓展
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,898 | 🐛 1 | 🌐 Java | 📅 2026-11-02 -RxJava的Android拓展
 
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived -RxJava实现的Android运行时权限控制
 
 * [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived -安卓UI控件的RxJava绑定API
 
-* [RxLifecycle](https://github.com/trello/RxLifecycle) ⭐ 7,632 | 🐛 4 | 🌐 Java | 📅 2023-03-23 -帮助使用了RxJava的安卓应用控制生命周期
+* [RxLifecycle](https://github.com/trello/RxLifecycle) ⭐ 7,633 | 🐛 4 | 🌐 Java | 📅 2023-03-23 -帮助使用了RxJava的安卓应用控制生命周期
 
 * [sqlbrite](https://github.com/square/sqlbrite) ⚠️ Archived -支持RxJava的sqlite数据库
 
 * [storio](https://github.com/pushtorefresh/storio) ⭐ 2,526 | 🐛 42 | 🌐 Java | 📅 2023-09-16 -支持RxJava的数据库
 
-* [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) ⭐ 2,094 | 🐛 33 | 🌐 Java | 📅 2024-07-18 -Google Play Service API wrapped in RxJava
+* [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) ⭐ 2,093 | 🐛 33 | 🌐 Java | 📅 2024-07-18 -Google Play Service API wrapped in RxJava
 
 * [reark](https://github.com/reark/reark) ⭐ 2,051 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -RxJava architecture library for Android
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
