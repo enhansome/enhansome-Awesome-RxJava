@@ -413,7 +413,7 @@
             "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10386,
+            "stars": 10387,
             "topics": [
               "android",
               "android-permissions",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:24:26.453Z",
+    "last_updated": "2026-11-08T14:33:52.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
