@@ -61,7 +61,7 @@
             "open_issues": 10,
             "owner": "reark",
             "repo": "reark",
-            "stars": 2051,
+            "stars": 2052,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -365,10 +365,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T18:39:21Z",
-            "open_issues": 148,
+            "open_issues": 150,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43939,
+            "stars": 43941,
             "topics": [
               "android",
               "java"
@@ -392,7 +392,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19895,
+            "stars": 19894,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -438,7 +438,7 @@
             "open_issues": 42,
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9562,
+            "stars": 9561,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "trello-archive",
             "repo": "RxLifecycle",
-            "stars": 7632,
+            "stars": 7631,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -548,7 +548,7 @@
             "open_issues": 10,
             "owner": "reark",
             "repo": "reark",
-            "stars": 2051,
+            "stars": 2052,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T14:33:52.932Z",
+    "last_updated": "2026-11-09T17:50:35.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
