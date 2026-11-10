@@ -61,7 +61,7 @@
             "open_issues": 10,
             "owner": "reark",
             "repo": "reark",
-            "stars": 2052,
+            "stars": 2053,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -269,7 +269,7 @@
             "open_issues": 21,
             "owner": "Froussios",
             "repo": "Intro-To-RxJava",
-            "stars": 2031,
+            "stars": 2030,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -364,11 +364,11 @@
             "id": 892275,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T18:39:21Z",
-            "open_issues": 150,
+            "last_commit": "2026-11-10T13:42:43Z",
+            "open_issues": 148,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43941,
+            "stars": 43937,
             "topics": [
               "android",
               "java"
@@ -392,7 +392,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19894,
+            "stars": 19893,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -548,7 +548,7 @@
             "open_issues": 10,
             "owner": "reark",
             "repo": "reark",
-            "stars": 2052,
+            "stars": 2053,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:50:35.206Z",
+    "last_updated": "2026-11-10T15:49:59.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
@@ -620,7 +620,7 @@
       "open_issues": 7,
       "owner": "happydog-intj",
       "repo": "Awesome-RxJava",
-      "stars": 4804,
+      "stars": 4805,
       "topics": []
     },
     "original_repository_sha": "007c710ea17429252068c2beed1112eeb2a2b3cc",
