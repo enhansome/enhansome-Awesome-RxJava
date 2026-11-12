@@ -209,7 +209,7 @@
             "open_issues": 10,
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
-            "stars": 7488,
+            "stars": 7489,
             "topics": [
               "concurrency",
               "example",
@@ -364,11 +364,11 @@
             "id": 892275,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T13:42:43Z",
+            "last_commit": "2026-11-12T03:26:39Z",
             "open_issues": 148,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43941,
+            "stars": 43939,
             "topics": [
               "android",
               "java"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T15:38:44.556Z",
+    "last_updated": "2026-11-12T16:20:57.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",

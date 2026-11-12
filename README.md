@@ -110,7 +110,7 @@ RxJava resources
 
 ## Example
 
-* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,488 | 🐛 10 | 🌐 Java | 📅 2023-08-08-Learning RxJava for Android by example
+* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,489 | 🐛 10 | 🌐 Java | 📅 2023-08-08-Learning RxJava for Android by example
 
 * [MovieGuide](https://github.com/esoxjem/MovieGuide) ⭐ 2,596 | 🐛 1 | 🌐 Java | 📅 2025-09-23-An Android app that showcases the MVP pattern and RxJava
 
@@ -125,7 +125,7 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,941 | 🐛 148 | 🌐 Java | 📅 2026-11-10 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,939 | 🐛 148 | 🌐 Java | 📅 2026-11-12 -支持RxJava的网络请求库
 
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,894 | 🐛 1 | 🌐 Java | 📅 2026-11-02 -RxJava的Android拓展
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
