@@ -102,7 +102,7 @@ RxJava resources
 
 * [RxJavaApp](https://github.com/jiang111/RxJavaApp) ⭐ 1,030 | 🐛 0 | 🌐 Java | 📅 2023-12-18 -用于学习RxJava操作符的APP
 
-* [AppPlus](https://github.com/maoruibin/AppPlus) ⭐ 437 | 🐛 1 | 🌐 Java | 📅 2017-09-20 - 一个可以用于传送Apk文件，提取APK文件等的工具软件。
+* [AppPlus](https://github.com/maoruibin/AppPlus) ⭐ 438 | 🐛 1 | 🌐 Java | 📅 2017-09-20 - 一个可以用于传送Apk文件，提取APK文件等的工具软件。
 
 * [android-gfycat](https://github.com/dlew/android-gfycat) ⭐ 360 | 🐛 6 | 🌐 Java | 📅 2020-07-17 -Android application that loads gifs via gfycat for efficiency's sake
 
@@ -125,7 +125,7 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,938 | 🐛 148 | 🌐 Java | 📅 2026-11-14 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,936 | 🐛 148 | 🌐 Java | 📅 2026-11-15 -支持RxJava的网络请求库
 
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,893 | 🐛 1 | 🌐 Java | 📅 2026-11-02 -RxJava的Android拓展
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

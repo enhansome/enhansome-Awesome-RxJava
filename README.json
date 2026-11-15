@@ -156,7 +156,7 @@
             "open_issues": 1,
             "owner": "maoruibin",
             "repo": "AppPlus",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "apktool",
               "app",
@@ -364,11 +364,11 @@
             "id": 892275,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T05:27:13Z",
+            "last_commit": "2026-11-15T04:36:51Z",
             "open_issues": 148,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43938,
+            "stars": 43936,
             "topics": [
               "android",
               "java"
@@ -413,7 +413,7 @@
             "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10386,
+            "stars": 10385,
             "topics": [
               "android",
               "android-permissions",
@@ -438,7 +438,7 @@
             "open_issues": 42,
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9561,
+            "stars": 9560,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:33:25.200Z",
+    "last_updated": "2026-11-15T15:00:17.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
