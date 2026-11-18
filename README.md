@@ -125,7 +125,7 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,937 | 🐛 148 | 🌐 Java | 📅 2026-11-17 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,940 | 🐛 148 | 🌐 Java | 📅 2026-11-18 -支持RxJava的网络请求库
 
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,892 | 🐛 1 | 🌐 Java | 📅 2026-11-02 -RxJava的Android拓展
 
@@ -145,7 +145,7 @@ RxJava resources
 
 * [rx-preferences](https://github.com/f2prateek/rx-preferences) ⭐ 1,519 | 🐛 19 | 🌐 Java | 📅 2023-05-24 -使SharedPreferences支持RxJava
 
-* [frodo](https://github.com/android10/frodo) ⭐ 1,459 | 🐛 16 | 🌐 Java | 📅 2018-08-30 -Android Library for Logging RxJava Observables and Subscribers.
+* [frodo](https://github.com/android10/frodo) ⭐ 1,460 | 🐛 16 | 🌐 Java | 📅 2018-08-30 -Android Library for Logging RxJava Observables and Subscribers.
 
 ## Stackoverflow
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
