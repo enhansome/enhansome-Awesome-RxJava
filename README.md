@@ -80,7 +80,7 @@ RxJava resources
 
 ## 书籍
 
-* [【译】RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN) ⭐ 1,263 | 🐛 0 | 🌐 CSS | 📅 2017-09-04 -Ivan.Morgillo所写一书的中文翻译版本
+* [【译】RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN) ⭐ 1,262 | 🐛 0 | 🌐 CSS | 📅 2017-09-04 -Ivan.Morgillo所写一书的中文翻译版本
 
 ## Test
 
@@ -90,19 +90,19 @@ RxJava resources
 
 ## App
 
-* [JakeWharton/u2020](https://github.com/JakeWharton/u2020) ⭐ 5,612 | 🐛 14 | 🌐 Java | 📅 2023-05-28 -Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
+* [JakeWharton/u2020](https://github.com/JakeWharton/u2020) ⭐ 5,610 | 🐛 14 | 🌐 Java | 📅 2023-05-28 -Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
 
-* [android-boilerplate](https://github.com/ribot/android-boilerplate) ⭐ 3,992 | 🐛 5 | 🌐 Java | 📅 2018-06-01 -使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例
+* [android-boilerplate](https://github.com/ribot/android-boilerplate) ⭐ 3,991 | 🐛 5 | 🌐 Java | 📅 2018-06-01 -使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例
 
-* [rx-android-architecture](https://github.com/tehmou/rx-android-architecture) ⭐ 2,054 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -Android中使用Rx的一种架构
+* [rx-android-architecture](https://github.com/tehmou/rx-android-architecture) ⭐ 2,053 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -Android中使用Rx的一种架构
 
 * [TranslateApp](https://github.com/maoruibin/TranslateApp) ⚠️ Archived - 一个使用 MVP+Dagger2+RxJava+Retrofit的实现手机端『划词翻译』功能的App - 咕咚翻译
 
-* [Avengers](https://github.com/saulmm/Avengers) ⭐ 1,074 | 🐛 19 | 🌐 Java | 📅 2016-12-28 - 一个使用Retrofit+RxJava+MVP的app
+* [Avengers](https://github.com/saulmm/Avengers) ⭐ 1,073 | 🐛 19 | 🌐 Java | 📅 2016-12-28 - 一个使用Retrofit+RxJava+MVP的app
 
-* [RxJavaApp](https://github.com/jiang111/RxJavaApp) ⭐ 1,030 | 🐛 0 | 🌐 Java | 📅 2023-12-18 -用于学习RxJava操作符的APP
+* [RxJavaApp](https://github.com/jiang111/RxJavaApp) ⭐ 1,029 | 🐛 0 | 🌐 Java | 📅 2023-12-18 -用于学习RxJava操作符的APP
 
-* [AppPlus](https://github.com/maoruibin/AppPlus) ⭐ 438 | 🐛 1 | 🌐 Java | 📅 2017-09-20 - 一个可以用于传送Apk文件，提取APK文件等的工具软件。
+* [AppPlus](https://github.com/maoruibin/AppPlus) ⭐ 436 | 🐛 1 | 🌐 Java | 📅 2017-09-20 - 一个可以用于传送Apk文件，提取APK文件等的工具软件。
 
 * [android-gfycat](https://github.com/dlew/android-gfycat) ⭐ 359 | 🐛 6 | 🌐 Java | 📅 2020-07-17 -Android application that loads gifs via gfycat for efficiency's sake
 
@@ -110,13 +110,13 @@ RxJava resources
 
 ## Example
 
-* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,488 | 🐛 10 | 🌐 Java | 📅 2023-08-08-Learning RxJava for Android by example
+* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,485 | 🐛 10 | 🌐 Java | 📅 2023-08-08-Learning RxJava for Android by example
 
-* [MovieGuide](https://github.com/esoxjem/MovieGuide) ⭐ 2,596 | 🐛 1 | 🌐 Java | 📅 2025-09-23-An Android app that showcases the MVP pattern and RxJava
+* [MovieGuide](https://github.com/esoxjem/MovieGuide) ⭐ 2,595 | 🐛 1 | 🌐 Java | 📅 2025-09-23-An Android app that showcases the MVP pattern and RxJava
 
-* [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) ⭐ 2,030 | 🐛 21 | 🌐 Java | 📅 2022-03-16 -RxJava实例入门
+* [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) ⭐ 2,029 | 🐛 21 | 🌐 Java | 📅 2022-03-16 -RxJava实例入门
 
-* [learnrxjava](https://github.com/jhusain/learnrxjava) ⭐ 754 | 🐛 8 | 🌐 Java | 📅 2017-10-09 -RxJava例子
+* [learnrxjava](https://github.com/jhusain/learnrxjava) ⭐ 753 | 🐛 8 | 🌐 Java | 📅 2017-10-09 -RxJava例子
 
 * [RxWeather](https://github.com/SmartDengg/RxWeather) ⭐ 562 | 🐛 1 | 🌐 Java | 📅 2016-05-15
   -Architecting Android with RxJava
@@ -125,27 +125,27 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,940 | 🐛 148 | 🌐 Java | 📅 2026-11-18 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,939 | 🐛 148 | 🌐 Java | 📅 2026-11-20 -支持RxJava的网络请求库
 
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,891 | 🐛 1 | 🌐 Java | 📅 2026-11-02 -RxJava的Android拓展
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,890 | 🐛 1 | 🌐 Java | 📅 2026-11-02 -RxJava的Android拓展
 
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived -RxJava实现的Android运行时权限控制
 
 * [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived -安卓UI控件的RxJava绑定API
 
-* [RxLifecycle](https://github.com/trello/RxLifecycle) ⭐ 7,631 | 🐛 4 | 🌐 Java | 📅 2023-03-23 -帮助使用了RxJava的安卓应用控制生命周期
+* [RxLifecycle](https://github.com/trello/RxLifecycle) ⭐ 7,630 | 🐛 4 | 🌐 Java | 📅 2023-03-23 -帮助使用了RxJava的安卓应用控制生命周期
 
 * [sqlbrite](https://github.com/square/sqlbrite) ⚠️ Archived -支持RxJava的sqlite数据库
 
-* [storio](https://github.com/pushtorefresh/storio) ⭐ 2,526 | 🐛 42 | 🌐 Java | 📅 2023-09-16 -支持RxJava的数据库
+* [storio](https://github.com/pushtorefresh/storio) ⭐ 2,525 | 🐛 42 | 🌐 Java | 📅 2023-09-16 -支持RxJava的数据库
 
-* [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) ⭐ 2,093 | 🐛 33 | 🌐 Java | 📅 2024-07-18 -Google Play Service API wrapped in RxJava
+* [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) ⭐ 2,092 | 🐛 33 | 🌐 Java | 📅 2024-07-18 -Google Play Service API wrapped in RxJava
 
-* [reark](https://github.com/reark/reark) ⭐ 2,054 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -RxJava architecture library for Android
+* [reark](https://github.com/reark/reark) ⭐ 2,053 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -RxJava architecture library for Android
 
-* [rx-preferences](https://github.com/f2prateek/rx-preferences) ⭐ 1,519 | 🐛 19 | 🌐 Java | 📅 2023-05-24 -使SharedPreferences支持RxJava
+* [rx-preferences](https://github.com/f2prateek/rx-preferences) ⭐ 1,518 | 🐛 19 | 🌐 Java | 📅 2023-05-24 -使SharedPreferences支持RxJava
 
-* [frodo](https://github.com/android10/frodo) ⭐ 1,460 | 🐛 16 | 🌐 Java | 📅 2018-08-30 -Android Library for Logging RxJava Observables and Subscribers.
+* [frodo](https://github.com/android10/frodo) ⭐ 1,459 | 🐛 16 | 🌐 Java | 📅 2018-08-30 -Android Library for Logging RxJava Observables and Subscribers.
 
 ## Stackoverflow
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
