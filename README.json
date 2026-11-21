@@ -364,11 +364,11 @@
             "id": 892275,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T04:29:42Z",
+            "last_commit": "2026-11-21T13:00:12Z",
             "open_issues": 148,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43939,
+            "stars": 43941,
             "topics": [
               "android",
               "java"
@@ -413,7 +413,7 @@
             "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10380,
+            "stars": 10379,
             "topics": [
               "android",
               "android-permissions",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:25:44.419Z",
+    "last_updated": "2026-11-21T15:40:17.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
