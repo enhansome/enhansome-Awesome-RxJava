@@ -209,7 +209,7 @@
             "open_issues": 10,
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
-            "stars": 7485,
+            "stars": 7484,
             "topics": [
               "concurrency",
               "example",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T15:40:17.951Z",
+    "last_updated": "2026-11-22T15:43:12.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
@@ -620,7 +620,7 @@
       "open_issues": 7,
       "owner": "happydog-intj",
       "repo": "Awesome-RxJava",
-      "stars": 4803,
+      "stars": 4802,
       "topics": []
     },
     "original_repository_sha": "007c710ea17429252068c2beed1112eeb2a2b3cc",
