@@ -269,7 +269,7 @@
             "open_issues": 21,
             "owner": "Froussios",
             "repo": "Intro-To-RxJava",
-            "stars": 2029,
+            "stars": 2028,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -368,7 +368,7 @@
             "open_issues": 148,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43942,
+            "stars": 43944,
             "topics": [
               "android",
               "java"
@@ -438,7 +438,7 @@
             "open_issues": 42,
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9559,
+            "stars": 9558,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T19:31:22.757Z",
+    "last_updated": "2026-11-24T19:07:18.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",
