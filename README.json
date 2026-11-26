@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "JakeWharton",
             "repo": "u2020",
-            "stars": 5609,
+            "stars": 5608,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "ribot",
             "repo": "android-boilerplate",
-            "stars": 3991,
+            "stars": 3990,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -156,7 +156,7 @@
             "open_issues": 1,
             "owner": "maoruibin",
             "repo": "AppPlus",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "apktool",
               "app",
@@ -368,7 +368,7 @@
             "open_issues": 148,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43948,
+            "stars": 43947,
             "topics": [
               "android",
               "java"
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "trello-archive",
             "repo": "RxLifecycle",
-            "stars": 7629,
+            "stars": 7628,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:02.950Z"
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T18:12:27.431Z",
+    "last_updated": "2026-11-26T17:54:31.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "RxJava resources",

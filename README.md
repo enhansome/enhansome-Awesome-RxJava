@@ -90,9 +90,9 @@ RxJava resources
 
 ## App
 
-* [JakeWharton/u2020](https://github.com/JakeWharton/u2020) ⭐ 5,609 | 🐛 14 | 🌐 Java | 📅 2023-05-28 -Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
+* [JakeWharton/u2020](https://github.com/JakeWharton/u2020) ⭐ 5,608 | 🐛 14 | 🌐 Java | 📅 2023-05-28 -Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
 
-* [android-boilerplate](https://github.com/ribot/android-boilerplate) ⭐ 3,991 | 🐛 5 | 🌐 Java | 📅 2018-06-01 -使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例
+* [android-boilerplate](https://github.com/ribot/android-boilerplate) ⭐ 3,990 | 🐛 5 | 🌐 Java | 📅 2018-06-01 -使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例
 
 * [rx-android-architecture](https://github.com/tehmou/rx-android-architecture) ⭐ 2,053 | 🐛 10 | 🌐 Java | 📅 2018-06-23 -Android中使用Rx的一种架构
 
@@ -102,7 +102,7 @@ RxJava resources
 
 * [RxJavaApp](https://github.com/jiang111/RxJavaApp) ⭐ 1,029 | 🐛 0 | 🌐 Java | 📅 2023-12-18 -用于学习RxJava操作符的APP
 
-* [AppPlus](https://github.com/maoruibin/AppPlus) ⭐ 436 | 🐛 1 | 🌐 Java | 📅 2017-09-20 - 一个可以用于传送Apk文件，提取APK文件等的工具软件。
+* [AppPlus](https://github.com/maoruibin/AppPlus) ⭐ 435 | 🐛 1 | 🌐 Java | 📅 2017-09-20 - 一个可以用于传送Apk文件，提取APK文件等的工具软件。
 
 * [android-gfycat](https://github.com/dlew/android-gfycat) ⭐ 359 | 🐛 6 | 🌐 Java | 📅 2020-07-17 -Android application that loads gifs via gfycat for efficiency's sake
 
@@ -125,7 +125,7 @@ RxJava resources
 
 ## Library
 
-* [retrofit](https://github.com/square/retrofit) ⭐ 43,948 | 🐛 148 | 🌐 Java | 📅 2026-11-25 -支持RxJava的网络请求库
+* [retrofit](https://github.com/square/retrofit) ⭐ 43,947 | 🐛 148 | 🌐 Java | 📅 2026-11-25 -支持RxJava的网络请求库
 
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,890 | 🐛 1 | 🌐 Java | 📅 2026-11-02 -RxJava的Android拓展
 
@@ -133,7 +133,7 @@ RxJava resources
 
 * [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived -安卓UI控件的RxJava绑定API
 
-* [RxLifecycle](https://github.com/trello/RxLifecycle) ⭐ 7,629 | 🐛 4 | 🌐 Java | 📅 2023-03-23 -帮助使用了RxJava的安卓应用控制生命周期
+* [RxLifecycle](https://github.com/trello/RxLifecycle) ⭐ 7,628 | 🐛 4 | 🌐 Java | 📅 2023-03-23 -帮助使用了RxJava的安卓应用控制生命周期
 
 * [sqlbrite](https://github.com/square/sqlbrite) ⚠️ Archived -支持RxJava的sqlite数据库
 
@@ -159,4 +159,4 @@ RxJava resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
